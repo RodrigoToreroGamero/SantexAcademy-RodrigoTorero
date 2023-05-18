@@ -1,0 +1,29 @@
+html {
+    font-family: 'Inter', sans-serif;
+    font-size: 12px;
+}
+body {
+    margin: 0;
+}
+p {
+    margin-right: 40px;
+    
+}
+p.header-text {
+    font-size: 1em;
+}
+h1 {
+    font-size: 2.4em;
+    margin: 0px 400px;
+    text-align: center;
+    /*padding: 40px 220px;*/
+}
+button.redondo {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 25px;
+    border-width: 2px;
+    padding: 0px 20px;
+    height: 40px;
+    font-size: 1em;
+}
